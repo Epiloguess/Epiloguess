@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Epiloguess
-- 👀 I’m interested in FronEnd
+- 👀 I’m interested in FrontEnd
 - 🌱 I’m currently learning javascript,node.js
 - 💞️ I’m looking to collaborate on a music player
 - 📫 Send me email@hellowyho@gmail.com
