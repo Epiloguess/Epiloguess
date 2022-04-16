@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Epiloguess
-- 👀 I’m interested in FrontEnd
-- 🌱 I’m currently learning javascript,node.js
-- 💞️ I’m looking to collaborate on a music player
+- 👀 I’m interested in Full Stack
+- 🌱 I’m currently learning javascript,node.js,golang
+
 - 📫 Send me email@hellowyho@gmail.com
 
 <!---
