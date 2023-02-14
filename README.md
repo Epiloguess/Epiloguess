@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Epiloguess
-- 👀 I’m interested in Full Stack
-- 🌱 I’m currently learning javascript,node.js,golang
+- 👀 I’m interested in FrontEnd
+- 🌱 I’m currently learning javascript,vue.js,node.js
 
 - 📫 Send me email@hellowyho@gmail.com
 
