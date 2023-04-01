@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Epiloguess
 - 👀 I’m interested in FrontEnd
-- 🌱 I’m currently learning javascript,vue.js,node.js
+- 🌱 I’m currently learning react
 
 - 📫 Send me email@hellowyho@gmail.com
 
