@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Epiloguess
-- 👀 I’m interested in FrontEnd
-- 🌱 I’m currently learning react
 
-- 📫 Send me email@hellowyho@gmail.com
 
 <!---
 Epiloguess/Epiloguess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
